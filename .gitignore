@@ -1,0 +1,4 @@
+.env
+tmp/
+/static/css/style.css
+*.txt
