@@ -2,3 +2,4 @@
 tmp/
 /static/css/style.css
 *.txt
+*_templ.go
